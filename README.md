@@ -9,4 +9,4 @@ This tutorial uses [**Epic Games' Unreal Engine 5.4.x**](https://www.unrealengin
 
 The [**Epic Games' Unreal Engine Mannequins Pack**](https://www.unrealengine.com/marketplace/en-US/product/mannequins-asset-pack) is used in the project. These models are licensed by Epic Games for use with the Unreal Engine.
 
-The [**Wheelbarrow Dump**](https://www.mixamo.com/#/?page=1&query=Wheelbarrow+Dump) animation from [**Mixamo**](https://www.mixamo.com/#/).
+The [**Wheelbarrow Dump**](https://www.mixamo.com/#/?page=1&query=Wheelbarrow+Dump) animation is from [**Mixamo**](https://www.mixamo.com/#/).
